@@ -4,20 +4,36 @@
  
 wells457@umn.edu 
  
-READMEthing: 
+
+
+        
+        * [description](#Description) 
+        * [installation](#installation) 
+
+        * [usage](#usage) 
+        
+        * [license](#license) 
+        
+        * [contributing](#contributing) 
+        
+        * [tests](#tests) 
+        
+        * [questions](#questions) 
+        
+        generator: 
  
  
-Description: weird 
+##Description: this generates readmes 
  
-Instilations used for this: npm 
+##Instilations used for this: npm and dotenv 
  
-The usage of this: bootcamp 
+##The usage of this: used by bootcamp 
  
-License used: MIT 
+##License used: other 
  
-People who contributed: Lukas 
+##People who contributed: Me, Alan, Lukas 
  
-Tests used: none 
+##Tests used: console.log 
  
-Questions: nada 
+##Questions: How do I do this better? 
  
